@@ -11,5 +11,5 @@ Please fill your strengths and your potential contribution areas in this table:
 | NTNU | Bjørn Lindi| <ul><li>Maybe “how to utilize Code Refinery workshops within NAIC project?” question.</li><li>NLPL (http://wiki.nlpl.eu/Home) related courses.</li></ul>| 6 | 
 | UiA | Martin Holen | <ul><li>Image Recognition and Reinforcement learning</li><li>CAIR Team. (https://cair.uia.no/) The Tsetlin machine research team works</li></ul>|  6 | 
 | NORCE | Klaus Johannsen | Many research groups and topics all around Norway that we can benefit from!|  6 | 
-| SINTEF | Alexander Stasik | ML Courses |  6 | 
+| SINTEF | Alexander Stasik | ML Courses (Updated Under GitLab) |  6 | 
 | SIGMA2 | Hans Eide & Vigdis Guldseth| Maybe infrastructure related courses can be added |  6 | 
