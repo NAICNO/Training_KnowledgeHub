@@ -17,7 +17,8 @@ This tutorial consists of the courses and workshops about ML/AI for the users wh
     -  Understand the current challenges and risks of using machine-learning-based tools in genomic analysis.
 
   
-  **Audience**:  Biologists interested in machine learning applications in genomics.
+  **Audience**:
+    Biologists interested in machine learning applications in genomics.
 
   ```
   
