@@ -4,8 +4,6 @@
 This tutorial consists of the courses and workshops about ML/AI for the users who have some AI background (ML disciplines):
 
 - Science & Engineering
-
-  ##  [Bioinformatics Data](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
  
   ```{admonition} Bioinformatics Data
   [Introduction to machine learning applications in genomic analysis](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
@@ -22,6 +20,18 @@ This tutorial consists of the courses and workshops about ML/AI for the users wh
   ```
   
   - Natural Language Processing
+    
+    ```{admonition} NLP Data
+    [Introduction to machine learning applications in NLP](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
+
+    **Abstract:** Our short course, ...
+
+     **Audience**:
+  
+    **Learning outcomes**
+      -  Gain a basic understanding of machine learning methods and their applications in genomic analysis.
+
+  ```
 
   - Medical data processing
     
