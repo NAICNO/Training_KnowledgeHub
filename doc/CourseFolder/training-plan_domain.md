@@ -23,6 +23,16 @@ This tutorial consists of the courses and workshops about ML/AI for the users wh
   - Natural Language Processing
 
   - Medical data processing
+    - ``````{note} Medical data processing
+    About Med Data Processing
+    `````{warning} Abstract
+    Here's the details of the course
+    ````{admonition} Course info
+    -  the audience
+    -  outcomes
+    ````
+    `````
+    ``````
 
   - Data in Education
 
