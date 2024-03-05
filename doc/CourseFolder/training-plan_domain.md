@@ -30,20 +30,11 @@ This tutorial consists of the courses and workshops about ML/AI for the users wh
     **Audience**:
   
     **Learning outcomes**
-      -  Gain a basic understanding of machine learning methods and their applications in genomic analysis.
+      -  Gain a basic understanding of machine learning methods and their applications in NLP tasks.
 
   ```
 
   - Medical data processing
-    
-    `````{admonition} Abstract
-    Here's the details of the course
-    ````{admonition} Course info
-      -  the audience
-      -  outcomes
-    ````
-    `````
-   
 
   - Data in Education
 
