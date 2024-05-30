@@ -7,7 +7,7 @@ This tutorial consists of the courses and workshops about ML/AI for the users wh
   - Biomedical Sciences
     
   ```{admonition} The Nordic e-Infrastructure Collaboration (NeIC) May, 2024
-  [Machine Learning tools for genomics data analysis](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
+  [Machine Learning tools for genomics data analysis](https://naic.pages.sigma2.no/tutorials/bioinformatics/neic_2024/index.html)
 
   **Abstract:** There are a lot of potential uses for Ai in biomedical sciences. The field of bioinformatics, which deals with the analysis of biomedical data, is still catching up with the skill set needed to effectively use ML/Ai in the workflows. In this tutorial, we will demystify some basic machine learning concepts needed to get started with and then show some examples where these concepts are already being applied. Then we will move on to get some hands-on experience with a selected tool to get some experience and to motivate you to learn and explore the possibilities to use ML/ML in your work.
 
