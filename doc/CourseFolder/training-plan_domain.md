@@ -1,61 +1,65 @@
 # Domain specific Data Mining Courses or Workshops
-
-
-This tutorial consists of the courses and workshops about ML/AI for the users who have some AI background (ML disciplines):
-
-- Science & Engineering
-  - Biomedical Sciences
-    
-  ```{admonition} The Nordic e-Infrastructure Collaboration (NeIC) May, 2024
-  [Machine Learning tools for genomics data analysis](https://naic.pages.sigma2.no/tutorials/bioinformatics/neic_2024/index.html)
-
-  **Abstract:** There are a lot of potential uses for Ai in biomedical sciences. The field of bioinformatics, which deals with the analysis of biomedical data, is still catching up with the skill set needed to effectively use ML/Ai in the workflows. In this tutorial, we will demystify some basic machine learning concepts needed to get started with and then show some examples where these concepts are already being applied. Then we will move on to get some hands-on experience with a selected tool to get some experience and to motivate you to learn and explore the possibilities to use ML/ML in your work.
-
-  **Prerequisites**:
-   Basic understanding in concepts like sequence assembly, variants and protein folding. Familiar with Python language would be an advantage, but we will provide copy-paste examples just in case..
-
-  ```
-    
-  ```{admonition} Oslo Bioinformatics Workshop Week December, 2023
-  [Introduction to machine learning applications in genomic analysis](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
-
-  **Abstract:** Our short course, is specifically designed to provide an overview of the key machine learning concepts and their use cases in genomic analysis. The course begins with an introduction to the main concepts of machine learning technologies, including supervised learning, unsupervised learning, and reinforcement learning, providing participants with a basic understanding of how these technologies work. Next, the course will introduce various genomic analysis methods that can potentially benefit from machine learning technologies.
-
-  **Audience**:
-    Biologists interested in machine learning applications in genomics.
-  
-  **Learning outcomes**
-    -  Gain a basic understanding of machine learning methods and their applications in genomic analysis.
-    -  Understand the current challenges and risks of using machine-learning-based tools in genomic analysis.
-
-  ```
-  
-  - Natural Language Processing
-    
-  ```{admonition} NLP Data
-  [Introduction to machine learning applications in NLP](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)
-
-    **Abstract:** Our short course, ...
-
-    **Audience**:
-  
-    **Learning outcomes**
-      -  Gain a basic understanding of machine learning methods and their applications in NLP tasks.
-
-  ```
  
-  
-  - Medical data processing
+This document outlines the user training activities conducted under NAIC, focusing on AI, HPC, and specialized computing topics. These trainings are designed to support researchers, students, and industry professionals in utilizing NAIC resources effectively.
 
-  - Data in Education
+---
 
-  - Data in Gaming and Sports
+## Training Activities  
 
-  - Data in Robotics
+### Completed Trainings  
+
+#### 1. [Oslo Bioinformatics Workshop Week (December 2023) - UiO](https://naicno.github.io/NAIC_Bioinformatics_courses_and_workshops/index.html)  
+- **Focus**: Introduction to machine learning applications in genomic analysis.  
+- **Audience**: Biologists interested in machine learning applications in genomics.  
+- **Topics**:  
+  - Key ML concepts: supervised, unsupervised, and reinforcement learning.  
+  - Genomic analysis methods benefiting from ML technologies.  
+
+#### 2. [Northern Lights Deep Learning Conference (January 2024)](https://www.visual-intelligence.no/event/northern-lights-deep-learning-conference-2024)  
+- **Focus**: Deep learning trends and applications.  
+- **Outcome**: Networking, knowledge sharing, and discussion on AI/ML developments.  
+
+#### 3. [The Nordic e-Infrastructure Collaboration (NeIC) Training (May 2024)](https://naic.pages.sigma2.no/tutorials/bioinformatics/neic_2024/index.html)  
+- **Title**: Machine Learning Tools for Genomics Data Analysis  
+- **Focus**: AI/ML applications in biomedical sciences and bioinformatics.  
+- **Topics**:  
+  - ML introduction for bioinformatics workflows.  
+  - Hands-on experience with ML tools in genomics.  
+
+#### 4. [LUMI Performance Analysis and Optimization Workshop (June 2024)](https://www.lumi-supercomputer.eu/events/performance-analysis-and-optimization-workshop-2024/)  
+- **Event Page**: [LUMI Training Materials](https://lumi-supercomputer.github.io/LUMI-training-materials/paow-20240611/)  
+- **Course Materials**: [Sigma2 Notebook](https://md.sigma2.no/lumi-performance-workshop-june24#)  
+- **Focus**: High-performance computing (HPC) using the LUMI supercomputer.  
+- **Topics**: Performance optimization, job scheduling, parallel computing techniques.  
+
+#### 5. Lecture on HPC Resources for IN5490 (September 26, 2024)  
+- **Course**: Advanced Topics in Artificial Intelligence for Intelligent Systems.  
+- **Time**: 14:00 – 16:00.  
+- **Focus**: Utilization of HPC resources in AI and intelligent systems research.  
+
+#### 6. [Building AI Skills with NAIC at NLDL Winter School (2025)](https://www.naic.no/english/news/building-ai-skills-with-naic-at-the-nldl-winter-sc.html)  
+- **Focus**: Developing AI skills through hands-on training.  
+- **Topics**: 
+    -   NAIC was involved in this conference supporting a LLMs tutorial led by UiO’s Language Technology Group.  
+    -   The workshop covered deep learning fundamentals, transformer models, and hands-on training, where 50 virtual machines were set up on NAIC, running open-source Norwegian LLMs 
+
+#### 7. [HPC ParaView - Digital Scholarship Days 2025](https://www.ub.uio.no/english/courses-events/events/dsc/2025/digital-scholarship-days/12-hpc-visualization-using-paraview)  
+- **Focus**: Scientific visualization using ParaView.  
+- **Audience**: HPC users working with large datasets.  
+- **Topics**: Rendering, volume visualization, and parallel processing.  
+
+### Upcoming Trainings  
+
+#### 8. Intermediate Python Course for Bioinformatics - UiO (on the planning stage)  
+- **Status**: Issue opened, planning phase.  
+- **Audience**: Researchers and students in computational biology.  
+- **Topics**:  
+
+#### 9. Tsetlin Machine - UiA (on the planning stage)  
+- **Status**: Issue will be opened... 
+- **Focus**:  Tsetlin Machine 
+- **Participants**: 
 
 
-
-- Spatial Data Mining
-
-
-- Temporal Data Mining
+## Contribution and Collaboration  
+- NAIC partners contribute by designing, organizing, and hosting training sessions.  
