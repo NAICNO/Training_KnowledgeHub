@@ -11,8 +11,9 @@ Welcome to Norwegian AI Cloud Training documentation!
 
    training-roadmap.md
    training-maincourses.rst
-   training-faq.md
    support-userhelpuser.md
+   .. training-faq.md
+   
 
 .. .. toctree::
 ..    :maxdepth: 1

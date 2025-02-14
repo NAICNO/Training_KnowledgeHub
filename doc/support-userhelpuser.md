@@ -1,5 +1,3 @@
-# User Helping User
-
 # NAIC Forum: User-Helping-User Guide
 
 Welcome to the **NAIC Forum**! 🚀 This platform is designed to facilitate **knowledge sharing, discussions, and user-to-user support** for topics related to **AI, HPC, and cloud infrastructure**. Our goal is to create an **engaged community** where researchers, students, IT professionals, and industry members can **collaborate, ask questions, and exchange insights**.
