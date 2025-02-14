@@ -14,12 +14,12 @@ Welcome to Norwegian AI Cloud Training documentation!
    training-faq.md
    support-userhelpuser.md
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Inner Docs For Training WP:
+.. .. toctree::
+..    :maxdepth: 1
+..    :caption: Inner Docs For Training WP:
 
-   Main Course Structure <InnerDocs/course-structure.md>
-   Course Identification, Content and Implementation Tutorial <InnerDocs/course-definition-form.md>
-   Partner Roles and WP Related Items <InnerDocs/partner-roles.md>
-   Strengths <InnerDocs/partner-strengths.md>
-   Monthly Meeting Notes <InnerDocs/monthly_meetings.md>
+..    Main Course Structure <InnerDocs/course-structure.md>
+..    Course Identification, Content and Implementation Tutorial <InnerDocs/course-definition-form.md>
+..    Partner Roles and WP Related Items <InnerDocs/partner-roles.md>
+..    Strengths <InnerDocs/partner-strengths.md>
+..    Monthly Meeting Notes <InnerDocs/monthly_meetings.md>

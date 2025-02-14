@@ -51,19 +51,18 @@ This document outlines the user training activities conducted under NAIC, focusi
 ### Upcoming Trainings  
 
 #### 8. [Fundamentals of Accelerated Computing with CUDA C/C++, March, 2025](https://www.ub.uio.no/english/courses-events/courses/carpentry/CUDA)
-- **Status**: Issue link: https://gitlab.sigma2.no/naic/wp3/on-boarding-courses/-/issues/23 
+- **Status**: on planning stage
 - **Audience**: Undergraduate or graduate students/researchers with experience in C/C++ programming  
 - **Topics**: The fundamental tools and techniques for GPU-accelerating C/C++ applications with CUDA 
 - **Time and place**: Mar. 20, 2025 10:00 AM – 3:00 PM
 
 #### 9. Tsetlin Machine - UiA (on the planning stage, March, 2025)  
-- **Status**: Issue link:  https://gitlab.sigma2.no/naic/wp3/on-boarding-courses/-/issues/24
+- **Status**: on planning stage
 - **Focus**:  
-  - **Tsetlin Machine**: 
 - **Participants**: 
 
 #### 10. LUMI Hackathon Event (May 2025)
-- **Status**: Issue link: https://gitlab.sigma2.no/naic/wp3/on-boarding-courses/-/issues/22 
+- **Status**: on planning stage
 - **Focus**: Research groups and companies interested in making their scientific software utilize efficiently the new AMD GPU-compute architecture in LUMI, in collaboration with LUMI experts. 
 - **Participants**: Anyone can apply if you are a researcher or a company located in either one of the LUMI consortium countries or a member of EuroHPC country. 
 ---
