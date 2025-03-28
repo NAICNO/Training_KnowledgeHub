@@ -46,22 +46,21 @@ This document outlines the user training activities conducted under NAIC, focusi
 #### 7. [HPC ParaView - Digital Scholarship Days 2025](https://www.ub.uio.no/english/courses-events/events/dsc/2025/digital-scholarship-days/12-hpc-visualization-using-paraview)  
 - **Focus**: Scientific visualization using ParaView.  
 - **Audience**: HPC users working with large datasets.  
-- **Topics**: Rendering, volume visualization, and parallel processing.  
+- **Topics**: Rendering, volume visualization, and parallel processing.
+
+#### 8. [Fundamentals of Accelerated Computing with CUDA C/C++, March, 2025](https://www.naic.no/arrangementer/fundamentals-of-accelerated-computing-with-cuda-c-.html)
+- **Focus**: The fundamental tools and techniques for GPU-accelerating C/C++ applications with CUDA 
+- **Audience**: Undergraduate or graduate students/researchers with experience in C/C++ programming
+- **Time and place**: Mar. 20, 2025 10:00 AM – 3:00 PM
+
+#### 9. [An Introduction to the Tsetlin Machine - UiA](https://www.naic.no/arrangementer/an-introduction-to-the-tsetlin-machine.html) 
+- **Focus**:  In this seminar, the basics and recent advances of Tsetlin machines, including inference and learning, advanced architectures, and applications, will be covered.
+- **Audience**: Graduate and undergraduate students, as well as researchers.
+- **Time and place**: Mar. 27, 2025 13:00 – 16:00
 
 ### Upcoming Trainings  
 
-#### 8. [Fundamentals of Accelerated Computing with CUDA C/C++, March, 2025](https://www.ub.uio.no/english/courses-events/courses/carpentry/CUDA)
-- **Status**: on planning stage
-- **Audience**: Undergraduate or graduate students/researchers with experience in C/C++ programming  
-- **Topics**: The fundamental tools and techniques for GPU-accelerating C/C++ applications with CUDA 
-- **Time and place**: Mar. 20, 2025 10:00 AM – 3:00 PM
-
-#### 9. Tsetlin Machine - UiA (on the planning stage, March, 2025)  
-- **Status**: on planning stage
-- **Focus**:  
-- **Participants**: 
-
-#### 10. LUMI Hackathon Event (May 2025)
+#### LUMI Hackathon Event (May 2025)
 - **Status**: on planning stage
 - **Focus**: Research groups and companies interested in making their scientific software utilize efficiently the new AMD GPU-compute architecture in LUMI, in collaboration with LUMI experts. 
 - **Participants**: Anyone can apply if you are a researcher or a company located in either one of the LUMI consortium countries or a member of EuroHPC country. 
