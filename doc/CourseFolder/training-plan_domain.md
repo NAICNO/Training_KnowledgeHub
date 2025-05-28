@@ -58,12 +58,10 @@ This document outlines the user training activities conducted under NAIC, focusi
 - **Audience**: Graduate and undergraduate students, as well as researchers.
 - **Time and place**: Mar. 27, 2025 13:00 – 16:00
 
-### Upcoming Trainings  
-
-#### LUMI Hackathon Event (May 2025)
-- **Status**: on planning stage
+#### 10. [LUMI Hackathon Event](https://www.lumi-supercomputer.eu/events/lumi-hackathon-spring2025/) 
 - **Focus**: Research groups and companies interested in making their scientific software utilize efficiently the new AMD GPU-compute architecture in LUMI, in collaboration with LUMI experts. 
-- **Participants**: Anyone can apply if you are a researcher or a company located in either one of the LUMI consortium countries or a member of EuroHPC country. 
+- **Participants**: Anyone can apply if you are a researcher or a company located in either one of the LUMI consortium countries or a member of EuroHPC country.
+- **Time and place**: May 12 - 16 
 ---
 
 
