@@ -1,3 +1,1 @@
-## Olivia Training Hardware Part
-
-#### [Olivia Hardware](../InnerDocs/OliviaIntroduction.pdf)
+[Olivia Hardware](../InnerDocs/OliviaIntroduction.pdf)
