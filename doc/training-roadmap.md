@@ -59,7 +59,8 @@ All lesson materials are regularly improved and kept up-to-date by NRIS. These i
    -    #### [GPU programming](https://documentation.sigma2.no/training/material.html#gpu-programming)
          1.   [Introduction to AMD ROCm GPU programming](https://www.youtube.com/playlist?list=PLx15eYqzJifehAxhWRD6T35GZwAqM9IK4)
          2.   [Introduction to OpenACC programming](https://www.youtube.com/watch?v=KgMJzmqenuc)
-
+   
+   -    #### [Olivia Hardware](./InnerDocs/OliviaIntroduction.pdf)
 
 ## Synchronous Courses
 
