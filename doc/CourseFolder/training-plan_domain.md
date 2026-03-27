@@ -64,7 +64,6 @@ This document outlines the user training activities conducted under NAIC, focusi
 - **Time and place**: May 12 - 16 
 
 #### 11. [Geilo x NAIC Winter School](https://www.sintef.no/projectweb/geilowinterschool/2026-uncertainty-quantification/) 
-- **Status**: [Done](https://gitlab.sigma2.no/naic/wp3/on-boarding-courses/-/issues/31)
 - **Focus**: The foundations and frontiers of uncertainty quantification - starting from classical scientific computing and extending into the rapidly evolving field of scientific machine learning.
 - **Time and place**: January 18 - 23 
 ---
